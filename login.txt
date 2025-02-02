@@ -1,4 +1,1 @@
-# .env file
-BASE_URL=https://stmate.on-geo.de/
-USER_NAME=OGSTmateDemo10
-PASSWORD=oC7J02oVnO!
+
